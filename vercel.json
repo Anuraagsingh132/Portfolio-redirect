@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://akssingh-framer.com/$1",
+      "permanent": true
+    }
+  ]
+}
