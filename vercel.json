@@ -2,7 +2,6 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination_framer": "https://akssingh.framer.website/$1",
       "destination": "https://streamverse-vit.netlify.app",
 
       "permanent": true
